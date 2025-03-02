@@ -1,4 +1,0 @@
-✨✨✨
-
-Scripts	Status
-XVCHUB	🟢
